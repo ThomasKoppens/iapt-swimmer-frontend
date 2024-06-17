@@ -1,0 +1,889 @@
+Timestamp,Responder,Total Volume (km),Training type (periodisation),Comment,Athlete's Name,I felt physically and emotionally well,I was motivated to train,I slept well and long enough,I was fatigued,I was sore,RPE,Comment: (if it adds value),Type of work,Training type (periodisation),Comment,OTI
+26/08/2023 13:06:38,Athlete,,,,Sam,4,5,6,6,6,5 (Hard),,,,,3
+26/08/2023 13:10:17,Athlete,,,,Gabriel,2,5,5,5,6,9 (Close to max),,,,,1
+26/08/2023 13:11:46,Athlete,,,,Hector,5,5,5,3,3,4 (Sort of Hard),,,,,9
+26/08/2023 13:14:24,Athlete,,,,Bea,1,2,5,6,5,3 (Moderate),"Started the week feeling like i could not withstand the training, but was doing ok when it got easier",,,,-3
+26/08/2023 13:19:38,Athlete,,,,Luca,4,3,5,4,5,3 (Moderate),,,,,3
+26/08/2023 13:21:41,Athlete,,,,Michela,3,6,5,6,6,9 (Close to max),,,,,2
+26/08/2023 13:35:51,Athlete,,,,Nirvana,4,3,5,5,5,4 (Sort of Hard),,,,,2
+26/08/2023 13:37:10,Athlete,,,,Kate,5,5,4,3,2,5 (Hard),,,,,9
+26/08/2023 13:41:05,Athlete,,,,Roanna,4,6,4,4,1,6 (A bit more),,,,,9
+26/08/2023 14:02:38,Athlete,,,,Oscar,4,5,5,4,5,3 (Moderate),,,,,5
+26/08/2023 15:24:23,Athlete,,,,Vince,5,5,4,3,5,6 (A bit more),,,,,6
+27/08/2023 00:07:52,Athlete,,,,Giuseppe,5,5,4,3,3,2 (Easy),,,,,8
+27/08/2023 08:51:57,Athlete,,,,Jayden,3,4,3,4,6,4 (Sort of Hard),,,,,0
+27/08/2023 10:50:08,Athlete,,,,Raoul,3,5,2,5,5,6 (A bit more),,,,,0
+27/08/2023 11:02:35,Athlete,,,,Adriano,4,5,4,4,5,4 (Sort of Hard),One training session was hard and I felt very sore after it but the rest of the week was easy.,,,,4
+27/08/2023 11:03:57,Coach,34 (due to Thurs - Sat 75% reduction in training),"Aerobic 1, 2, 3 (slight speed to keep it)",First time the whole team could not hold times in certain sets due to fatigue. Means they are all putting in similar efforts. Will allocate Thursday PM to recovery swimming only.,,,,,,,,,,,,0
+28/08/2023 18:47:34,Athlete,,,,Nathan,5,6,4,6,6,7 (Really hard),,,,,3
+02/09/2023 10:05:13,Athlete,,,,Bea,4,3,4,4,1,6 (A bit more),I felt the training got harder as the week went on ,,,,6
+02/09/2023 11:45:49,Athlete,,,,Hector,5,5,5,3,3,5 (Hard),,,,,9
+02/09/2023 11:47:05,Athlete,,,,Sam,6,6,6,2,2,4 (Sort of Hard),,,,,14
+02/09/2023 11:52:02,Athlete,,,,Gabriel,4,6,5,2,3,8 (A bit more),,,,,10
+02/09/2023 12:05:46,Athlete,,,,Oscar,5,5,5,1,1,5 (Hard),,,,,13
+02/09/2023 12:20:33,Athlete,,,,Luca,5,4,5,4,3,6 (A bit more),,,,,7
+02/09/2023 13:10:37,Athlete,,,,Nirvana,3,4,6,3,4,6 (A bit more),,,,,6
+02/09/2023 13:38:18,Athlete,,,,Jayden,4,4,5,5,3,5 (Hard),,,,,5
+02/09/2023 14:07:09,Athlete,,,,Roanna,1,5,5,5,1,5 (Hard),Was sick and injured this week. ,,,,5
+02/09/2023 15:21:41,Athlete,,,,Nathan,5,6,4,3,0,5 (Hard),,,,,12
+02/09/2023 15:38:05,Athlete,,,,Adriano,4,6,5,2,1,4 (Sort of Hard),,,,,12
+02/09/2023 16:26:17,Athlete,,,,Michela,4,6,5,3,2,8 (A bit more),,,,,10
+02/09/2023 17:44:00,Athlete,,,,Vince,5,6,4,4,4,6 (A bit more),,,,,7
+03/09/2023 08:01:42,Coach,38.5km,"Introduction of Threshold work on Monday AM and Thursday AM. Week 1/8 began. Overall went ok, lots of work to do.",Tuesday mornings have swapped from IM Aerobic to power speed session and afternoons are now IM. Thursday afternoon was off due to lightning. Saturday session swapped from threshold to VO2 max (8/10 set of Sat) overall vibe and energy levels were much better this week compared to last week. Wednesday morning changed to recovery session. ,,,,,,,,,,,,0
+03/09/2023 10:28:22,Athlete,,,,Giuseppe,4,5,4,3,2,5 (Hard),,,,,8
+03/09/2023 10:38:57,Athlete,,,,Kate,5,5,4,3,3,6 (A bit more),,,,,8
+03/09/2023 12:11:29,Athlete,,,,Raoul,4,4,2,4,3,6 (A bit more),,,,,3
+09/09/2023 10:01:23,Athlete,,,,Bea,3,5,5,4,3,3 (Moderate),+6km,,,,6
+09/09/2023 11:32:31,Athlete,,,,Jayden,2,4,3,5,5,7 (Really hard),,,,,-1
+09/09/2023 11:33:30,Athlete,,,,Kate,5,4,4,3,4,5 (Hard),,,,,6
+09/09/2023 11:34:56,Athlete,,,,Roanna,2,6,4,3,1,7 (Really hard),,,,,8
+09/09/2023 11:46:17,Athlete,,,,Hector,5,4,3,3,3,4 (Sort of Hard),,,,,6
+09/09/2023 11:48:11,Athlete,,,,Oscar,5,6,5,2,3,5 (Hard),,,,,11
+09/09/2023 11:50:35,Athlete,,,,Giuseppe,4,4,5,3,3,6 (A bit more),,,,,7
+09/09/2023 11:56:31,Athlete,,,,Gabriel,5,6,5,2,3,7 (Really hard),,,,,11
+09/09/2023 11:57:59,Athlete,,,,Michela,4,6,5,3,4,8 (A bit more),,,,,8
+09/09/2023 13:04:05,Athlete,,,,Nathan,4,6,4,1,1,5 (Hard),,,,,12
+09/09/2023 13:36:44,Athlete,,,,Nirvana,4,6,5,2,5,5 (Hard),,,,,8
+09/09/2023 16:29:47,Athlete,,,,Vince,5,5,4,4,5,6 (A bit more),,,,,5
+10/09/2023 08:31:10,Athlete,,,,Luca,4,3,2,3,5,3 (Moderate),,,,,1
+10/09/2023 09:41:25,Athlete,,,,Adriano,6,4,4,2,0,4 (Sort of Hard),,,,,12
+15/09/2023 05:41:31,Coach,40.5,"same as last week, 2 sets threshold, 1 Vo2 max, volume increased by 3k","same as last week, 2 sets threshold, 1 Vo2 max, volume increased by 3k",,,,,,,,,,,,0
+16/09/2023 10:01:32,Athlete,,,,Bea,3,4,5,4,4,5 (Hard),Was on break monday tuesday ,,,,4
+16/09/2023 10:04:32,Athlete,,,,Giuseppe,4,5,4,4,4,6 (A bit more),,,,,5
+16/09/2023 10:05:09,Athlete,,,,Sam,6,5,6,2,3,5 (Hard),,,,,12
+16/09/2023 10:08:42,Athlete,,,,Hector,4,4,4,4,4,5 (Hard),,,,,4
+16/09/2023 10:19:15,Athlete,,,,Gabriel,4,6,6,3,5,8 (A bit more),,,,,8
+16/09/2023 10:29:19,Athlete,,,,Anthony,4,5,3,3,4,5 (Hard),,,,,5
+16/09/2023 10:48:34,Athlete,,,,Roanna,5,6,5,4,5,8 (A bit more),,,,,7
+16/09/2023 11:02:49,Athlete,,,,Adriano,4,6,5,6,4,7 (Really hard),,,,,5
+16/09/2023 11:26:37,Athlete,,,,Nathan,3,6,3,4,5,7 (Really hard),,,,,3
+16/09/2023 12:18:24,Athlete,,,,Luca,4,4,5,5,6,8 (A bit more),,,,,2
+16/09/2023 12:42:21,Athlete,,,,Michela,5,4,6,3,5,9 (Close to max),,,,,7
+16/09/2023 17:08:58,Athlete,,,,Oscar,3,5,5,3,3,3 (Moderate),"I was sick this week, I only trained on thursday (only gym), friday, and saturday. I felt quite good in those two swimming sessions.",,,,7
+16/09/2023 17:30:52,Athlete,,,,Kate,4,4,4,3,3,6 (A bit more),,,,,6
+16/09/2023 20:53:09,Athlete,,,,Nirvana,2,5,5,4,4,4 (Sort of Hard),,,,,4
+17/09/2023 09:52:12,S&C Coach,,,,,,,,,,,,Gym Sessions - 5th & 7th September ,Strength + impulse absorption ,"Tuesday 
+
+Main worksets (2 sets)
+Dumbbell chest press, infinite load with impulse absorption – more work needed on reactive impulse including shoulder stability 
+Cable shoulder extensions – satisfactory controlled shoulder movements, working on stronger shoulders for build up to handstands in Sept week 3 
+Dumbbell squat, infinite load with impulse absorption – improvement needed on reactive impulse and squat depth 
+Depth jump, impulse absorption – satisfactory stability of completion of depth jump to total pause, working towards higher box level 
+
+Core (2 sets)
+Dragon fly modified superset with hollow body hold – good improvement in the inner core with less distance in the lower back in the hollow body hold, build up for dragonfly core exercise for upcoming week
+ 
+Accessory work (1 set)
+Deadhang – 1mins – good improvement in grip strength, swimmers adjusting their grip much less
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min total - good improvement in grip strength, swimmers adjusting their grip much less
+Reactive dumbbell Drop-catch – 30seconds – still more work on reactive impulse especially in ascending phase 
+Reactive bar Drop-catch - 30seconds – still more work on reactive impulse especially in ascending phase 
+
+Thursday 
+
+Main worksets (2 sets)
+Strict pull ups, wide grip/narrow – good improvement in number of completed reps and technique 
+Dumbbell shoulder flexion, infinite load with impulse absorption – still more work on reactive impulse especially in ascending phase, frequent unlocking at elbow joint 
+Resistance band deadlifts, hip hinge/hip lockout target for strong glutes – good performance overall, more glute strength needed for complete lockout reps 
+Hang power cleans / Snatches – nice improvement in technique, load kept low for first few weeks to disinfect correct technique  
+ 
+Core (2 sets)
+Dragon fly modified superset with hollow body hold – good improvement in the inner core with less distance in the lower back in the hollow body hold, build up for dragonfly core exercise for upcoming week
+ 
+Accessory work (1 set)
+Deadhang – 1mins – good improvement in grip strength, swimmers adjusting their grip much less
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min total - good improvement in grip strength, swimmers adjusting their grip much less
+Reactive dumbbell Drop-catch – 30seconds – still more work on reactive impulse especially in ascending phase 
+Reactive bar Drop-catch - 30seconds – still more work on reactive impulse especially in ascending phase 
+",0
+17/09/2023 09:58:57,S&C Coach,,,,,,,,,,,,Gym sessions - 12th & 14th Sept ,Strength + impulse absorption ,"Tuesday 
+
+Main worksets (2 sets)
+Dumbbell chest press, infinite load with impulse absorption – some improvement on the reactive impulse, swimmers increasing load safely  
+Cable shoulder extensions – satisfactory controlled shoulder movements, working on stronger shoulders for build up to handstands in Sept week 3 
+Dumbbell squat, infinite load with impulse absorption – good improvement on reactive impulse and squat depth, some swimmers need more work on this  
+Depth jump, impulse absorption – satisfactory stability of completion of depth jump to total pause, working towards higher box level in Sept week 3 
+
+Core (2 sets)
+Dragon fly superset with hollow body hold – some swimmers performing dragonfly exercise fairly week, keeping the number of reps low with correct technique for build up, younger ones performing correct modified version
+ 
+Accessory work (1 set)
+Deadhang – 1.30mins – good improvement in grip strength, swimmers adjusting their grip much less and holding for longer 
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min total - good improvement in grip strength, swimmers adjusting their grip much less and holding for longer 
+Reactive dumbbell Drop-catch – 30seconds – still more work on reactive impulse especially in ascending phase though some improvement is clearly observed, dumbbell still kept to 1kg
+Reactive bar Drop-catch - 30seconds – still more work on reactive impulse especially in ascending phase, bar still kept to 3kg 
+
+Thursday 
+
+Main worksets (2 sets)
+Strict pull ups, wide grip/narrow – good improvement in number of completed reps and technique 
+Dumbbell shoulder flexion, infinite load with impulse absorption – still more work on reactive impulse especially in ascending phase, frequent unlocking at elbow joint is reducing  
+Resistance band deadlifts, hip hinge/hip lockout target for strong glutes – good performance overall, swimmers locking out fully and building gradually on the load, no lower back pain reported  
+Hang power cleans / Snatches – nice improvement in technique, more explosiveness observed, load kept low for first few weeks to disinfect correct technique   
+
+Core (2 sets)
+Dragon fly superset with hollow body hold – some swimmers performing dragonfly exercise fairly week, keeping the number of reps low with correct technique for build up, younger ones performing correct modified version
+ 
+Accessory work (1 set)
+Deadhang – 1.30mins – good improvement in grip strength, swimmers adjusting their grip much less and holding for longer 
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min total - good improvement in grip strength, swimmers adjusting their grip much less and holding for longer 
+Reactive dumbbell Drop-catch – 30seconds – still more work on reactive impulse especially in ascending phase though some improvement is clearly observed, dumbbell still kept to 1kg
+Reactive bar Drop-catch - 30seconds – still more work on reactive impulse especially in ascending phase, bar still kept to 3kg ",0
+18/09/2023 17:43:43,Coach,43k,Same structure as previous week. ,Volume is increasing. Recovery HR of everyone has dropped by 5-10 beats which is excellent. Next week threshold work increased by 5 minutes each time.,,,,,,,,,,,,0
+23/09/2023 19:02:10,Athlete,,,,Bea,6,6,5,3,0,6 (A bit more),Extra sessions: 5.4km,,,,14
+23/09/2023 19:03:27,Athlete,,,,Oscar,5,5,4,1,2,7 (Really hard),,,,,11
+23/09/2023 19:04:14,Athlete,,,,Nathan,5,6,3,2,0,5 (Hard),,,,,12
+23/09/2023 19:05:02,Athlete,,,,Anthony,5,5,5,2,6,4 (Sort of Hard),,,,,7
+23/09/2023 19:28:40,Athlete,,,,Kate,4,4,4,3,3,6 (A bit more),,,,,6
+23/09/2023 19:30:36,Athlete,,,,Luca,6,4,4,0,0,0 (Rest),Abroad ,,,,14
+23/09/2023 19:53:27,Athlete,,,,Adriano,6,6,5,1,0,6 (A bit more),,,,,16
+23/09/2023 20:06:54,Athlete,,,,Gabriel,5,6,6,2,4,9 (Close to max),,,,,11
+23/09/2023 20:10:21,Athlete,,,,Hector,3,4,4,3,3,4 (Sort of Hard),,,,,5
+23/09/2023 20:23:52,Athlete,,,,Giuseppe,4,4,4,3,2,4 (Sort of Hard),,,,,7
+23/09/2023 21:12:51,Athlete,,,,Michela,2,4,5,4,5,9 (Close to max),,,,,2
+24/09/2023 08:45:14,S&C Coach,,,,,,,,,,,,Gym session - 19th Sept 2023,Strength + impulse absorption,"Tuesday 
+
+Main worksets (2 sets)
+Dumbbell chest press, infinite load with impulse absorption – improvement in reactive impulse including load used for several swimmers 
+Cable shoulder extensions – satisfactory controlled shoulder movements, handstands will be worked on from next week 
+Dumbbell squat, infinite load with impulse absorption – improvement on reactive impulse and squat depth 
+Depth jump, impulse absorption – satisfactory stability of completion of depth jump to total pause, higher box level utilised 
+
+Core (2 sets)
+Dragon fly modified superset with hollow body hold – good improvement in the inner core with less distance in the lower back in the hollow body hold, almost all swimmers completing the dragonfly core exercise 
+
+Accessory work (1 set)
+Deadhang – 1.30mins – good improvement in grip strength, swimmers adjusting their grip much less
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min total - good improvement in grip strength, swimmers adjusting their grip much less
+Reactive dumbbell Drop-catch – 30seconds – still more work on reactive impulse especially in ascending phase, but some nice improvement noticed  
+Reactive bar Drop-catch - 30seconds – still more work on reactive impulse especially in ascending phase 
+",
+24/09/2023 14:09:54,Coach,38k,"1 thresh (2.5-3k) 1 lactic (600m), 1 VO2 max (600m)","Changed Thursday session to a lactic acid production set and removed one gym session for them. Friday morning was tough but handled well and Friday afternoon turned into a recovery session as energy of group felt low and did not want to jeopardize Saturday session. Saturday session then turned out well and was super pleased to see that their times are being held throughout the VO2 max set despite having increase the quality work in that set by a 100m. Next week will be a tough week aiming to hit around 45k. Threshold sets will increase by 5-6 minutes next week but VO2 max set will remain at 600m. Underwater's are noticeably better and breath hold seems to have increased across the board. Next week we will finally regroup as a whole team with every being present after Wednesday (2 suspended, 2 away).",,,,,,,,,,,,
+25/09/2023 09:10:04,Athlete,,,,Roanna,6,6,5,4,3,8 (A bit more),,,,,10
+30/09/2023 10:01:01,Athlete,,,,Bea,5,5,4,2,0,6 (A bit more),Extra training : 3km,,,,12
+30/09/2023 10:02:03,Athlete,,,,Hector,4,4,4,4,5,5 (Hard),,,,,3
+30/09/2023 10:02:40,Athlete,,,,Gabriel,5,6,5,3,4,8 (A bit more),,,,,9
+30/09/2023 10:14:39,Athlete,,,,Oscar,5,6,5,2,3,3 (Moderate),,,,,11
+30/09/2023 10:32:07,Athlete,,,,Sam,6,5,6,4,5,6 (A bit more),,,,,8
+30/09/2023 10:48:56,Athlete,,,,Adriano,1,2,4,6,5,9 (Close to max),,,,,-4
+30/09/2023 10:54:34,Athlete,,,,Vince,5,5,3,3,3,5 (Hard),,,,,7
+30/09/2023 13:03:58,Athlete,,,,Nirvana,5,6,3,4,6,5 (Hard),,,,,4
+30/09/2023 22:34:55,Athlete,,,,Michela,2,3,5,6,6,9 (Close to max),,,,,-2
+01/10/2023 00:29:03,Athlete,,,,Nathan,5,6,4,4,2,8 (A bit more),,,,,9
+01/10/2023 09:41:30,S&C Coach,,,,,,,,,,,,Gym session - 26th and 28th Sept 2023,Strength + impulse absorption ,"Tuesday 
+
+Main worksets (2 sets)
+Dumbbell chest press, infinite load with impulse absorption – nice improvement on reactive impulse and strength through load of dumbbell 
+Handstands - 20/30 seconds - some swimmers showed good form though overall improvement needed on overall technique, good shoulder strength and stability exhibited 
+Dumbbell squat, infinite load with impulse absorption – nice improvement on reactive impulse and strength through load of dumbbell  
+Depth jump, impulse absorption – satisfactory stability of completion of depth jump to total pause, higher box level used and some swimmers were challenged with additional 1kg load on each hand, next program to work on single leg drop 
+
+Core (2 sets)
+Dragon fly superset with hollow body hold – good improvement in the inner core with most swimmers successfully performing dragon fly exercise. 40 seconds hollow body hold increase from last week with less swimmers exhibiting weakness in the inner core through release of the lower back  
+
+Accessory work (1 set)
+Deadhang – 1.30mins – good improvement in grip strength, swimmers adjusting their grip much less, next program building to being weighted 
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min total - good improvement in grip strength, swimmers adjusting their grip much less, next program building to being weighted 
+Reactive dumbbell Drop-catch – 30seconds – still more work on reactive impulse especially in ascending phase 
+Reactive bar Drop-catch - 30seconds – still more work on reactive impulse especially in ascending phase 
+
+Thursday 
+
+Main worksets (2 sets)
+
+Strict pull ups, wide grip/narrow – good improvement in number of completed reps and technique, swimmers increasing the total overall reps completed  
+Dumbbell shoulder flexion, infinite load with impulse absorption – still more work on reactive impulse especially in ascending phase, frequent unlocking at elbow joint, however nice improvement exhibited in several swimmers 
+Resistance band deadlifts, hip hinge/hip lockout target for strong glutes – good performance overall, more glute strength needed for complete lockout reps, will work on more in upcoming week
+Hang power cleans / Snatches – nice improvement in technique, load kept low for first few weeks to disinfect correct technique   
+
+Core (2 sets)
+Dragon fly superset with hollow body hold – good improvement in the inner core with most swimmers successfully performing dragon fly exercise. 40 seconds hollow body hold increase from last week with less swimmers exhibiting weakness in the inner core through release of the lower back  
+
+Accessory work (1 set)
+Deadhang – 1.30mins – good improvement in grip strength, swimmers adjusting their grip much less, next program building to being weighted 
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min total - good improvement in grip strength, swimmers adjusting their grip much less, next program building to being weighted 
+Reactive dumbbell Drop-catch – 30seconds – still more work on reactive impulse especially in ascending phase 
+Reactive bar Drop-catch - 30seconds – still more work on reactive impulse especially in ascending phase ",0
+02/10/2023 07:20:11,Athlete,,,,Jayden,4,5,3,4,5,4 (Sort of Hard),,,,,3
+02/10/2023 07:26:44,Athlete,,,,Raoul,5,3,5,5,3,7 (Really hard),,,,,5
+07/10/2023 10:10:53,Athlete,,,,Luca,4,5,5,3,4,3 (Moderate),,,,,7
+07/10/2023 10:10:56,Athlete,,,,Oscar,5,5,6,3,3,2 (Easy),,,,,10
+07/10/2023 10:11:29,Athlete,,,,Roanna,5,6,4,4,5,8 (A bit more),,,,,6
+07/10/2023 10:12:33,Athlete,,,,Hector,4,4,5,3,3,3 (Moderate),,,,,7
+07/10/2023 10:13:34,Athlete,,,,Bea,6,6,3,2,0,2 (Easy),Week leading up to tt,,,,13
+07/10/2023 10:18:40,Athlete,,,,Michela,6,6,5,2,1,4 (Sort of Hard),,,,,14
+07/10/2023 10:25:58,Athlete,,,,Nirvana,2,5,5,1,2,3 (Moderate),,,,,9
+07/10/2023 10:42:28,Athlete,,,,Jayden,3,4,2,5,3,5 (Hard),,,,,1
+07/10/2023 11:00:43,Athlete,,,,Adriano,2,2,4,5,1,2 (Easy),,,,,2
+07/10/2023 11:11:29,Athlete,,,,Vince,4,5,4,3,5,4 (Sort of Hard),,,,,5
+07/10/2023 11:17:30,Athlete,,,,Gabriel,5,6,5,3,3,6 (A bit more),,,,,10
+08/10/2023 09:17:43,S&C Coach,,,,,,,,,,,,S&C Sessions - 3rd and 5th Oct 2023,Strength + impulse absorption ,"Tuesday 
+
+Main worksets 
+Bench press, heavy load (1set, 5 reps) - good execution overall, working on building up load throughout the upcoming weeks 
+Bench press impulse absorption, timed (1set; 30sec/45sec/1min) - satisfactory controlled shoulder stability, more work on reactive impulse in descent  
+Plyo box push up impulse absorption, timed (1set; 30sec/45sec/1min) - more work on shoulder flexibility with focus on reactive impulse in ascent 
+
+Back squats, banded heavy load (1set, 5 reps) - good execution overall, working on building up load throughout the upcoming weeks
+Trap bar squats impulse absorption, timed (1set; 30sec/45sec/1min) - improvement on reactive impulse and squat depth, more core control needed for balancing trap bar
+Drop jump, single and double (weighted) impulse absorption (1set, 3 reps of each) - good overall strength application in single/double drop jump 
+
+Hip thrust, banded heavy load (1set, 5 reps) - good execution overall, working on building up load throughout the upcoming weeks
+Glute bridge, hip lock with dumbbell (1set; 30sec/45sec/1min) - more strength required in adductors 
+Box jumps, high, explosive (1set, 6reps) - satisfactory height, working on loading that eccentric portion more aggressively and faster to be more spring-like and improve the amortization phase quicker, leading to a greater concentric power 
+
+Core (2 sets)
+Hanging leg raises (10 reps, toes to bar) with Dragon fly superset (10 reps) (2sets) - some swimmers completing the full dragon fly movement, core strength increasing
+
+Accessory work (1 set)
+Deadhang 1 min, weighted - forearm strength increasing with additional load
+Handstand, 30/40 seconds - more work for some swimmers on shoulder strength and stability including core control, building towards longer holds 
+Reactive dumbbell Drop-catch – 30seconds - still more work on reactive impulse especially in ascending phase 
+Reactive bar Drop-catch - 30seconds - still more work on reactive impulse especially in ascending phase 
+Calf raises 20reps with 10 mini jumps (2sets) - working on strong spring like ankles, will improve over the upcoming weeks 
+
+Thursday
+
+Time trials week: quick explosive work for sprinters, long holds and more stretching for mid/long distance swimmers ",0
+08/10/2023 13:16:38,Athlete,,,,Giuseppe,4,5,5,2,1,3 (Moderate),,,,,11
+08/10/2023 13:19:59,Athlete,,,,Nathan,4,6,4,1,0,2 (Easy),,,,,13
+08/10/2023 13:20:55,Athlete,,,,Anthony,5,4,3,3,2,2 (Easy),,,,,7
+08/10/2023 14:55:41,Athlete,,,,Kate,4,4,5,3,4,5 (Hard),,,,,6
+08/10/2023 16:15:15,Athlete,,,,Sam,6,5,6,2,3,3 (Moderate),,,,,12
+14/10/2023 10:05:01,Athlete,,,,Hector,4,4,4,4,5,6,,,,,
+14/10/2023 10:05:08,Athlete,,,,Oscar,4,4,4,3,4,8,,,,,
+14/10/2023 10:07:17,Athlete,,,,Luca,2,2,4,6,6,10,"Had a Boxing session on Wednesday eve. It demotivated me mentally and put me in a bad position to train as I was really sore, ended up swimming slow from Thursday Morning to Friday Evening, felt a little better on Saturday morning but injury in both shoulders is still persisting after applying ice and cream.",,,,
+14/10/2023 10:14:52,Athlete,,,,Gabriel,4,6,6,3,5,10,I had my shoulders in pain,,,,
+14/10/2023 10:16:31,Athlete,,,,Sam,6,6,6,5,5,10,,,,,
+14/10/2023 10:28:36,Athlete,,,,Nathan,4,4,3,5,3,9,,,,,
+14/10/2023 10:28:46,Athlete,,,,Anthony,4,5,4,5,4,7,,,,,
+14/10/2023 10:58:41,Athlete,,,,Vince,3,3,4,3,0,6,,,,,
+14/10/2023 11:05:16,Athlete,,,,Adriano,4,3,5,5,3,9,,,,,
+14/10/2023 11:07:49,Athlete,,,,Michela,1,2,5,5,6,10,,,,,
+14/10/2023 11:21:01,Athlete,,,,Nirvana,5,6,5,1,6,8,,,,,
+14/10/2023 11:24:18,Athlete,,,,Kate,4,4,4,2,3,7,,,,,
+15/10/2023 15:54:42,S&C Coach,,,,,,,,,,,,S&C Sessions - 10th & 12th Oct 2023,Strength + impulse absorption ,"Tuesday
+ 
+Main worksets 
+Bench press, heavy load (1set, 5 reps) - good improvement in overall load, technique cleaning up well 
+Bench press impulse absorption, timed (1set; 30sec/45sec/1min) - satisfactory improvement in reactive impulse
+Plyo box push up impulse absorption, timed (1set; 30sec/45sec/1min) - more work on push up strength due to decreased reactive impulse towards mid to end of completion 
+
+Back squats, banded heavy load (1set, 5 reps) - good improvement in overall load, technique cleaning up well 
+Back squats impulse absorption, timed (1set; 30sec/45sec/1min) - satisfactory improvement in reactive impulse
+Drop jump, single and double (weighted) impulse absorption (1set, 3 reps of each) - swimmers performing this very well 
+
+Hip thrust, banded heavy load (1set, 5 reps) - good improvement in overall load, technique cleaning up well 
+Glute bridge, hip lock with med ball (1set; 30sec/45sec/1min) - working on stronger adductors, will increase med ball load gradually 
+Box jumps, high, explosive (1set, 6reps) - good improvement in power, higher jumps performed 
+
+Core (2 sets)
+Dragon fly superset with isometric hold (10 reps) (2sets) - first part of dragon fly exercise improving, working on full completion 
+
+Accessory work (1 set)
+Deadhang 1 min, weighted - swimmers carrying heavier loads satisfactorily 
+Handstand, 30/40 seconds, 1min - most swimmers holding for longer, up to 1min 
+Reactive dumbbell Drop-catch – 30seconds, improvement is slow, will apply other alternatives to help improvement next week
+Reactive bar Drop-catch - 30seconds, improvement is slow, will apply other alternatives to help improvement next week
+Calf raises 20reps with 10 mini jumps (2sets) 
+
+Thursday 
+
+Main worksets 
+Pull ups, heavy load (1set, 5 reps) - good improvement in overall load, technique cleaning up well
+Pull ups impulse absorption, timed (1set; 5 reps with 5 second drop isometric hold) - satisfactory improvement in reactive impulse
+Seal rows, impulse absorption, timed (1set; 30sec/45sec/1min) - satisfactory improvement in reactive impulse and load carried 
+
+Deadlifts, heavy load (1set, 5 reps) - good improvement in overall load, technique cleaning up well
+Trap bar, impulse absorption, timed (1set; 30sec/45sec/1min) - satisfactory improvement in reactive impulse
+Kettlebell isometric squat to squat jumps, timed (1set; 30sec/45sec/1min) - more work needed on depth of squat and explosive reactive elements 
+
+Snatches/cleans (2 sets, 3 reps) - good improvement in overall load, technique cleaning up well
+
+Core (2 sets)
+Dragon fly superset with isometric hold (10 reps) (2sets) - first part of dragon fly exercise improving, working on full completion 
+
+Accessory work (1 set)
+Deadhang 1 min, weighted - swimmers carrying heavier loads satisfactorily 
+Handstand, 30/40 seconds, 1min - most swimmers holding for longer, up to 1min 
+Reactive dumbbell Drop-catch – 30seconds, improvement is slow, will apply other alternatives to help improvement next week
+Reactive bar Drop-catch - 30seconds, improvement is slow, will apply other alternatives to help improvement next week
+Calf raises 20reps with 10 mini jumps (2sets)  
+",
+16/10/2023 18:35:02,Coach,46,Threshold phase,"Worst part pf any block started last week. Expecting dip in mood, overall performance and energy. This is normal. During this phase I might give younger swimmers some sessions off when we see fit. Till 2nd December there will many ups and downs before their 3 week taper begins. This form is of week starting 7th October as forgot to fill out",,,,,,,,,,,,
+17/10/2023 22:29:33,Athlete,,,,Roanna,5,5,4,4,4,7,,,,,
+21/10/2023 10:01:26,Athlete,,,,Roanna,6,6,5,5,5,9,,,,,
+21/10/2023 10:01:53,Athlete,,,,Bea,2,3,1,4,0,8,+6km,,,,
+21/10/2023 10:05:40,Athlete,,,,Gabriel,5,6,5,3,3,10,,,,,
+21/10/2023 10:12:13,Athlete,,,,Adriano,3,3,4,4,0,8,,,,,
+21/10/2023 10:30:48,Athlete,,,,Luca,4,3,5,5,5,8,,,,,
+21/10/2023 10:30:55,Athlete,,,,Giuseppe,4,4,4,2,1,8,,,,,
+21/10/2023 10:38:49,Athlete,,,,Nathan,3,6,3,5,4,8,,,,,
+21/10/2023 10:48:05,Athlete,,,,Nirvana,5,6,4,2,3,6,,,,,
+21/10/2023 12:15:17,Athlete,,,,Oscar,3,5,5,5,4,8,,,,,
+21/10/2023 15:08:00,Athlete,,,,Michela,5,4,5,5,6,9,,,,,
+22/10/2023 08:58:21,S&C Coach,,,,,,,,,,,,S&C Sessions - 17th & 19th Oct 2023,Strength + impulse absorption ,"Tuesday
+ 
+Main worksets 
+Glute bridge bench press, heavy load (1set, 5 reps) - steady improvement in technique & load
+Bench press impulse absorption, timed (1set; 30sec/45sec/1min) - nice improvement in reactive impulse, working on bringing up the load slightly whilst still maintaining that quick burst
+Plyo box push up impulse absorption, timed (1set; 30sec/45sec/1min) - more work on reactive impulse as strength improves, better technique observed 
+
+Back squats, heavy load (1set, 5 reps) - swimmers exhibiting good depth and stronger sets 
+Back squats impulse absorption, timed (1set; 30sec/45sec/1min) - nice improvement in reactive impulse, working on bringing up the load slightly whilst still maintaining that quick burst
+Drop jump, single and double (weighted) impulse absorption (1set, 3 reps of each) - stability is improving for all jumps 
+
+Hip thrust, banded heavy load (1set, 5 reps) - strong improvement for all swimmers, technique disinfected 
+Glute bridge, hip lock with dumbbell (1set; 30sec/45sec/1min) - good improvement in adductor strength, working on brining up the load safely each week
+Box jumps, high, explosive (1set, 6reps) - explosive jumps with higher boxes each week, very satisfactory 
+
+Core (2 sets)
+Dragon fly superset with isometric dish hold (10 reps) (2sets) - isometric hold is up to 1min, dragon flies steadily improving though more work is needed
+
+Accessory work (1 set)
+Deadhang 1 min, weighted - swimmers all performing this weighted
+Handstand, 40seconds/1min - longer holds for all swimmers, need to work more on elbow lockout and lower back posture 
+Reactive dumbbell Drop-catch – 30seconds - slow improvement each week 
+Reactive bar Drop-catch - 30seconds - slow improvement each week 
+Calf raises 20reps with 10 mini jumps (2sets) - working on stronger ankles for explosive dives 
+
+Thursday 
+
+Main worksets 
+Pull ups, heavy load (1set, 5 reps) - swimmers getting stronger with heavier loads each week
+Pull ups impulse absorption, timed (1set; 5 reps with 5 second drop isometric hold) - nice improvement in reactive impulse, working on bringing up the load slightly whilst still maintaining that quick burst
+Seal rows, impulse absorption, timed (1set; 30sec/45sec/1min) - nice improvement in reactive impulse, working on bringing up the load slightly whilst still maintaining that quick burst
+
+Deadlifts, heavy load (1set, 5 reps) - swimmers getting stronger with heavier loads each week
+Trap bar, impulse absorption, timed (1set; 30sec/45sec/1min) - nice improvement in reactive impulse, working on bringing up the load slightly whilst still maintaining that quick burst, more work needed on squat technique 
+Plyo box isometric squat + impulse jumps (1set; 5 reps) - good improvement in reactive impulse, working on bringing up the load slightly whilst still maintaining that quick burst, more work needed on squat technique due to knees caving in and compromising on depth 
+
+Snatches/cleans (2 sets, 3 reps) - technique improving each week, load steadily increasing 
+
+Core (2 sets)
+Dragon fly superset with isometric dish hold (10 reps) (2sets) - isometric hold is up to 1min, dragon flies steadily improving though more work is needed
+
+Accessory work (1 set)
+Deadhang 1 min, weighted - swimmers all performing this weighted
+Handstand, 40seconds/1min - longer holds for all swimmers, need to work more on elbow lockout and lower back posture 
+Reactive dumbbell Drop-catch – 30seconds - slow improvement each week 
+Reactive bar Drop-catch - 30seconds - slow improvement each week 
+Calf raises 20reps with 10 mini jumps (2sets) - working on stronger ankles for explosive dives 
+",
+22/10/2023 10:27:33,Athlete,,,,Kate,4,4,4,3,3,6,,,,,
+22/10/2023 10:41:02,Athlete,,,,Vince,5,6,3,3,3,5,,,,,
+28/10/2023 10:02:49,Athlete,,,,Luca,5,6,6,4,4,6,,,,,
+28/10/2023 10:02:59,Athlete,,,,Sam,6,6,6,3,2,5,,,,,
+28/10/2023 10:03:00,Athlete,,,,Roanna,5,6,5,4,4,8,,,,,
+28/10/2023 10:03:13,Athlete,,,,Hector,4,4,4,3,4,4,,,,,
+28/10/2023 10:13:28,Athlete,,,,Bea,3,5,4,0,3,5,Hurt my shoukder,,,,
+28/10/2023 10:20:32,Athlete,,,,Jayden,2,2,2,5,3,7,,,,,
+28/10/2023 10:51:30,Athlete,,,,Adriano,5,4,4,3,3,9,,,,,
+28/10/2023 11:26:06,Athlete,,,,Gabriel,6,6,6,5,4,10,,,,,
+28/10/2023 11:48:00,Athlete,,,,Oscar,2,5,5,4,2,4,"I was sick, I only did 3 sessions on monday and tuesday.",,,,
+28/10/2023 11:51:54,Athlete,,,,Michela,6,5,6,3,5,10,,,,,
+28/10/2023 13:46:55,Athlete,,,,Nathan,4,6,2,5,3,5,,,,,
+29/10/2023 09:48:52,Coach,40k,Threshold + start of race pace saturdays,"Suits on Saturdays have begun, threshold decreased by 300m and rest increased by 5 sec on each group. Intensity is higher, volume i wanted to reach wasnt achieved but it is still good.",,,,,,,,,,,,
+30/10/2023 14:47:55,Athlete,,,,Anthony,6,5,3,2,4,8,,,,,
+04/11/2023 10:39:29,Athlete,,,,Gabriel,6,6,6,3,3,7,,,,,
+04/11/2023 10:39:51,Athlete,,,,Oscar,5,6,5,1,3,5,,,,,
+04/11/2023 10:40:03,Athlete,,,,Bea,4,5,4,0,0,3,Time trials week,,,,
+04/11/2023 10:40:16,Athlete,,,,Sam,6,6,6,2,2,5,,,,,
+04/11/2023 20:25:08,Athlete,,,,Michela,5,6,6,2,2,6,,,,,
+04/11/2023 22:19:47,Athlete,,,,Luca,3,3,5,2,2,4,,,,,
+05/11/2023 17:52:22,S&C Coach,,,,,,,,,,,,Gym sessions - 24th & 26th Oct 2023,Strength & impulse absorption ,"Tuesday 
+
+Main worksets - good improvement in overall strength in below worksets, reactive impulse improving though needs more explosive elements 
+Glute bridge chest press, heavy load (1set, 5 reps)
+Glute bridge chest press impulse absorption, timed (1set; 30sec/45sec/1min)
+Push up impulse absorption, timed (1set; 30sec/45sec/1min)
+
+Back squats, banded heavy load (1set, 5 reps)
+Back squats impulse absorption, timed (1set; 30sec/45sec/1min)
+Drop jump, single and double (weighted) impulse absorption (1set, 3 reps of each) 
+
+Hip thrust, heavy load (1set, 5 reps)
+Glute bridge, hip lock with dumbbell (1set; 30sec/45sec/1min)
+Box jumps, high, explosive (1set, 6reps) 
+
+Core (2 sets) - dragon fly exercise improving, looking for completion of movement working on week by week 
+Hanging leg raises (10 reps, toes to bar) with Dragon fly superset (10 reps) (2sets)
+
+Accessory work (1 set) - deadhangs building up to single arm, still needs more work here, reactive impulses improving slowly  
+Deadhang 1 min, weighted 
+Handstand, 30 seconds 
+Reactive dumbbell Drop-catch – 30seconds 
+Reactive bar Drop-catch - 30seconds 
+Calf raises 20reps with 10 mini jumps (2sets) 
+
+Thursday 
+
+Main worksets - good improvement in overall strength in below worksets, reactive impulse improving though needs more explosive elements 
+Pull ups, heavy load (1set, 5 reps)
+Pull ups impulse absorption, timed (1set; 5 reps with 5 second drop isometric hold) 
+Seal rows, impulse absorption, timed (1set; 30sec/45sec/1min)
+
+Deadlifts, heavy load (1set, 5 reps)
+Trap bar, impulse absorption, timed (1set; 30sec/45sec/1min)
+Banded knee squat jumps (1set; 5 reps)
+
+Snatches/cleans (2 sets, 3 reps) 
+
+Core (2 sets) - dragon fly exercise improving, looking for completion of movement working on week by week 
+Hanging leg raises (10 reps, toes to bar) with Dragon fly superset (10 reps) (2sets)
+
+Accessory work (1 set) - deadhangs building up to single arm, still needs more work here, reactive impulses improving slowly  
+Deadhang 1 min, weighted 
+Handstand, 30 seconds 
+Reactive dumbbell Drop-catch – 30seconds 
+Reactive bar Drop-catch - 30seconds 
+Calf raises 20reps with 10 mini jumps (2sets) 
+
+",
+05/11/2023 17:59:29,S&C Coach,,,,,,,,,,,,Gym sessions - 31st Oct & 2nd Nov 2023,Strength + impulse absorption ,"Final week of this program, next week will build on strength & power. Overall strength improving nicely especially in compound movements. Swimmers needs more work on reactive impulses which will be worked on more in the coming weeks. This structure program has worked well for their individual abilities, strengths and weaknesses.   
+
+Tuesday 
+Main worksets 
+Bench press, heavy load (1set, 5 reps)
+Bench press impulse absorption, timed (1set; 30sec/45sec/1min)
+Push up impulse absorption, timed (1set; 30sec/45sec/1min)
+
+Back squats, banded heavy load (1set, 5 reps)
+Back squats impulse absorption, timed (1set; 30sec/45sec/1min)
+Drop jump, single and double (weighted) impulse absorption (1set, 3 reps of each) 
+
+Hip thrust, banded heavy load (1set, 5 reps)
+Glute bridge, hip lock with dumbbell (1set; 30sec/45sec/1min)
+Box jumps, high, explosive (1set, 6reps) 
+
+Core (2 sets)
+Hanging leg raises (10 reps, toes to bar) with Dragon fly superset (10 reps) (2sets)
+
+Accessory work (1 set)
+Deadhang 1 min, weighted 
+Handstand, 30 seconds 
+Reactive dumbbell Drop-catch – 30seconds 
+Reactive bar Drop-catch - 30seconds 
+Calf raises 20reps with 10 mini jumps (2sets) 
+
+Thursday (time trials week power program)
+Pull ups weighted - 3 reps, 1 set
+Triple clutch med ball slam - 3 reps, 1 set
+
+Deadlifts - 3 reps, 1 set
+Explosive BW squat jumps - 3 reps, 1 set
+
+Snatches/cleans - 3 reps, 1 set
+
+Dumbbell explosive front raise - 30sec, 1 set
+Reactive dumbbell Drop-catch – 30sec, 1 set
+Reactive bar Drop-catch - 30sec, 1 set 
+
+",
+08/11/2023 12:17:04,Athlete,,,,Nirvana,6,6,5,2,1,4,Time trial 2 week,,,,
+08/11/2023 13:35:34,Athlete,,,,Roanna,5,5,5,5,4,8,,,,,
+08/11/2023 13:38:31,Athlete,,,,Kate,4,4,4,3,3,5,,,,,
+08/11/2023 15:56:23,Athlete,,,,Adriano,4,3,4,2,0,8,,,,,
+08/11/2023 20:12:17,Athlete,,,,Giuseppe,4,4,4,3,2,8,,,,,
+08/11/2023 20:57:08,Athlete,,,,Jayden,2,4,3,4,2,4,,,,,
+11/11/2023 10:01:02,Athlete,,,,Gabriel,4,6,5,4,3,10,,,,,
+11/11/2023 10:01:03,Athlete,,,,Michela,2,4,5,6,6,10,,,,,
+11/11/2023 10:01:45,Athlete,,,,Oscar,5,5,5,2,3,7,,,,,
+11/11/2023 10:02:15,Athlete,,,,Anthony,4,5,3,3,2,9,,,,,
+11/11/2023 10:02:15,Athlete,,,,Roanna,3,5,4,4,6,8,,,,,
+11/11/2023 10:02:25,Athlete,,,,Bea,3,5,4,5,3,6,,,,,
+11/11/2023 10:09:49,Athlete,,,,Sam,6,5,6,3,2,7,,,,,
+11/11/2023 10:20:42,Athlete,,,,Nathan,3,6,4,4,0,8,,,,,
+11/11/2023 11:00:27,Athlete,,,,Luca,5,6,6,5,6,9,,,,,
+11/11/2023 11:15:41,Athlete,,,,Adriano,4,4,5,5,0,9,,,,,
+11/11/2023 12:08:35,Athlete,,,,Giuseppe,4,4,4,4,2,7,,,,,
+11/11/2023 12:38:04,Athlete,,,,Hector,4,4,4,4,5,5,,,,,
+11/11/2023 13:02:59,Athlete,,,,Nirvana,4,4,5,3,1,8,,,,,
+11/11/2023 17:47:01,Athlete,,,,Vince,2,2,3,0,3,5,,,,,
+12/11/2023 09:58:18,S&C Coach,,,,,,,,,,,,S&C Sessions - 7th & 9th November 2023,Strength / Power + impulse absorption ,"Tuesday  
+
+Main worksets 
+Glute bridge barbell press, heavy load (1set, 5 reps) – good improvement in weekly strength gain, clean technique performed especially for Michela 
+Glute bridge barbell press, weighted, impulse absorption, timed (1set; 30sec/45sec/1min) – more work on absorption of the load in descent and explosive regain 
+Push up drop impulse absorption, timed (1set; 30sec/45sec/1min) – more work on absorption of the load in descent and explosive regain
+
+Front squats, heavy load (1set, 5 reps) – new exercise so load kept low for clean technique, good depth performed by all swimmers  
+Barbell back squat drop, impulse absorption, timed (1set; 30sec/45sec/1min) - more work on the explosive regain of the squat 
+Reverse explosive box jumps (1set, 5 reps) – satisfactory absorption of the reverse phase with safe landing due to previous week’s program  
+
+Hip thrust, heavy load (1set, 5 reps) – good improvement in weekly strength gain, clean technique performed especially for Michela
+Glute bridge w/ med ball chest pass, impulse absorption, timed (1set; 30sec/45sec/1min) – more work on the explosive phase of the hip response 
+Dumbbell wide stance isometric lunge, impulse absorption, timed (1set; 30sec/45sec/1min) - more work on the explosive regain of the lunge and lunge strength 
+
+Core (2 sets) – more total core strength needed for completion of toes of bar and L sit
+Toes to bar x10 reps 
+L sit x15 seconds 
+
+Accessory work (1 set)
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min, weighted – swimmers not quite ready for single arm deadhang, slowly building up each week with weighted double hand deadhangs 
+Handstand, 40sec to 1min – good improvement in shoulder strength and stability, swimmers more comfortable with handstands 
+Reactive medball/dumbbell full front raise – 30seconds – more work on explosive reactive phase 
+Reactive dumbbell Drop-catch – 30seconds – more work on explosive reactive phase
+Reactive bar Drop-catch (2 variations) - 30seconds – more work on explosive reactive phase
+
+Thursday 
+
+Main worksets 
+Pull ups, heavy load (1set, 3 reps) – good improvement in weekly strength gain 
+Pull ups, weighted, half reps, impulse absorption, timed (1set; 5 reps with 3 second drop isometric hold) – more work on absorption of the load in descent and explosive regain
+Barbell infinite pull x10sec on, 5sec off, x15sec on, 5sec off, 20sec on – new exercise, building for complete infinite pull without rest or reduction in strength intensity 
+
+Deadlifts, heavy load (1set, 3 reps) - good improvement in weekly strength gain, swimmers need more understanding of engagement of the feet against the platform  
+Dumbbell b stance, impulse absorption, timed (1set; 30sec/45sec/1min) – more work on absorption of the load in descent and explosive regain
+Broad jumps (3 sets, reducing max reps) – working on reducing the number of jumps to complete the full lane each week 
+
+Snatches/cleans (2 sets, 3 reps) - good improvement in weekly strength gain and technique 
+
+Core (2 sets) – more total core strength needed for completion of toes of bar and L sit
+Toes to bar x10 reps 
+L sit x15 seconds 
+
+Accessory work (1 set)
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min, weighted – swimmers not quite ready for single arm deadhang, slowly building up each week with weighted double hand deadhangs 
+Handstand, 40sec to 1min – good improvement in shoulder strength and stability, swimmers more comfortable with handstands 
+Reactive medball/dumbbell full front raise – 30seconds – more work on explosive reactive phase 
+Reactive dumbbell Drop-catch – 30seconds – more work on explosive reactive phase
+Reactive bar Drop-catch (2 variations) - 30seconds – more work on explosive reactive phase
+",
+12/11/2023 10:23:37,Athlete,,,,Kate,4,4,4,3,3,7,,,,,
+13/11/2023 10:08:47,Athlete,,,,Rosi,4,5,4,6,6,8,,,,,
+18/11/2023 10:01:41,Athlete,,,,Roanna,3,5,4,4,4,8,,,,,
+18/11/2023 10:01:57,Athlete,,,,Bea,3,5,3,5,4,4,,,,,
+18/11/2023 10:02:07,Athlete,,,,Anthony,5,6,3,3,5,8,,,,,
+18/11/2023 10:02:45,Athlete,,,,Giuseppe,4,4,5,3,4,8,,,,,
+18/11/2023 10:05:14,Athlete,,,,Hector,5,5,5,3,4,5,,,,,
+18/11/2023 10:05:28,Athlete,,,,Oscar,4,5,4,1,2,7,,,,,
+18/11/2023 10:07:45,Athlete,,,,Kate,2,4,4,4,3,8,,,,,
+18/11/2023 10:48:18,Athlete,,,,Michela,4,6,6,5,5,9,,,,,
+18/11/2023 10:48:57,Athlete,,,,Gabriel,6,5,6,4,3,9,,,,,
+18/11/2023 10:49:56,Athlete,,,,Adriano,4,5,5,6,4,9,,,,,
+18/11/2023 12:51:49,Athlete,,,,Luca,5,5,6,6,5,8,,,,,
+18/11/2023 15:48:49,Athlete,,,,Vince,4,4,4,0,4,4,,,,,
+18/11/2023 15:50:58,Athlete,,,,Nathan,4,6,2,4,0,8,,,,,
+18/11/2023 17:34:01,Athlete,,,,Sam,6,6,6,5,5,8,,,,,
+18/11/2023 20:10:06,Athlete,,,,Nirvana,3,4,6,4,1,6,,,,,
+19/11/2023 10:23:00,S&C Coach,,,,,,,,,,,,S&C sessions - 14th & 16th November 2023,Strength + power + impulse absorption ,"Tuesday  
+
+Glute bridge barbell press, heavy load (1set, 5 reps) – good improvement in weekly strength gain, clean technique performed especially for Michela 
+Glute bridge barbell press, weighted, impulse absorption, timed (1set; 30sec/45sec/1min) – more work on absorption of the load in descent and explosive regain 
+Push up drop impulse absorption, timed (1set; 30sec/45sec/1min) – more work on absorption of the load in descent and explosive regain
+
+Front squats, heavy load (1set, 5 reps) – new exercise so load kept low for clean technique, good depth performed by all swimmers  
+Barbell back squat drop, impulse absorption, timed (1set; 30sec/45sec/1min) - more work on the explosive regain of the squat 
+Reverse explosive box jumps (1set, 5 reps) – satisfactory absorption of the reverse phase with safe landing due to previous week’s program  
+
+Hip thrust, heavy load (1set, 5 reps) – good improvement in weekly strength gain, clean technique performed especially for Michela
+Glute bridge w/ med ball chest pass, impulse absorption, timed (1set; 30sec/45sec/1min) – more work on the explosive phase of the hip response 
+Dumbbell wide stance isometric lunge, impulse absorption, timed (1set; 30sec/45sec/1min) - more work on the explosive regain of the lunge and lunge strength 
+
+Core (2 sets) – more total core strength needed for completion of toes of bar and L sit
+Toes to bar x10 reps 
+L sit x15 seconds 
+
+Accessory work (1 set)
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min, weighted – swimmers not quite ready for single arm deadhang, slowly building up each week with weighted double hand deadhangs 
+Handstand, 40sec to 1min – good improvement in shoulder strength and stability, swimmers more comfortable with handstands 
+Reactive medball/dumbbell full front raise – 30seconds – more work on explosive reactive phase 
+Reactive dumbbell Drop-catch – 30seconds – more work on explosive reactive phase
+Reactive bar Drop-catch (2 variations) - 30seconds – more work on explosive reactive phase
+
+Thursday 
+
+Pull ups, heavy load (1set, 3 reps) – good improvement in weekly strength gain 
+Pull ups, weighted, half reps, impulse absorption, timed (1set; 5 reps with 3 second drop isometric hold) – more work on absorption of the load in descent and explosive regain
+Barbell infinite pull x10sec on, 5sec off, x15sec on, 5sec off, 20sec on – new exercise, building for complete infinite pull without rest or reduction in strength intensity 
+
+Deadlifts, heavy load (1set, 3 reps) - good improvement in weekly strength gain, swimmers need more understanding of engagement of the feet against the platform  
+Dumbbell b stance, impulse absorption, timed (1set; 30sec/45sec/1min) – more work on absorption of the load in descent and explosive regain
+Broad jumps (3 sets, reducing max reps) – working on reducing the number of jumps to complete the full lane each week 
+
+Snatches/cleans (2 sets, 3 reps) - good improvement in weekly strength gain and technique 
+
+Core (2 sets) – more total core strength needed for completion of toes of bar and L sit
+Toes to bar x10 reps 
+L sit x15 seconds 
+
+Accessory work (1 set)
+Deadhang, swim adaptive posture – 10seconds each, build up to 1min, weighted – swimmers not quite ready for single arm deadhang, slowly building up each week with weighted double hand deadhangs 
+Handstand, 40sec to 1min – good improvement in shoulder strength and stability, swimmers more comfortable with handstands 
+Reactive medball/dumbbell full front raise – 30seconds – more work on explosive reactive phase 
+Reactive dumbbell Drop-catch – 30seconds – more work on explosive reactive phase
+Reactive bar Drop-catch (2 variations) - 30seconds – more work on explosive reactive phase
+",
+19/11/2023 15:46:34,Athlete,,,,Rosi,4,5,5,6,5,9,,,,,
+25/11/2023 09:57:41,Athlete,,,,Oscar,5,6,5,2,3,6,,,,,
+25/11/2023 10:01:16,Athlete,,,,Bea,5,6,3,3,0,5,,,,,
+25/11/2023 10:01:23,Athlete,,,,Hector,4,4,5,3,4,5,,,,,
+25/11/2023 10:09:13,Athlete,,,,Gabriel,5,5,6,5,3,10,,,,,
+25/11/2023 10:26:16,Athlete,,,,Michela,6,6,6,5,5,9,,,,,
+25/11/2023 10:44:42,Athlete,,,,Anthony,4,5,2,2,4,8,,,,,
+25/11/2023 10:45:03,Athlete,,,,Adriano,3,5,5,5,6,9,,,,,
+25/11/2023 11:44:58,Athlete,,,,Luca,5,5,3,5,5,7,,,,,
+25/11/2023 12:07:58,Athlete,,,,Jayden,2,4,4,5,5,8,,,,,
+25/11/2023 12:36:16,Athlete,,,,Nirvana,6,6,4,1,0,7,,,,,
+26/11/2023 21:44:19,Athlete,,,,Nathan,4,6,4,3,1,8,,,,,
+27/11/2023 08:27:09,Athlete,,,,Kate,4,5,5,2,3,8,,,,,
+27/11/2023 19:33:19,Athlete,,,,Rosi,6,6,4,6,5,9,,,,,
+02/12/2023 10:00:58,Athlete,,,,Oscar,5,6,4,1,1,4,,,,,
+02/12/2023 10:02:06,Athlete,,,,Luca,3,3,6,0,2,2,Post Dislocation,,,,
+02/12/2023 10:19:55,Athlete,,,,Michela,6,6,4,4,4,8,,,,,
+02/12/2023 10:48:58,Athlete,,,,Gabriel,5,6,5,4,3,8,,,,,
+02/12/2023 11:02:49,Athlete,,,,Kate,5,5,4,2,3,8,,,,,
+02/12/2023 12:00:08,Athlete,,,,Nirvana,5,5,5,4,2,8,,,,,
+02/12/2023 12:05:49,Athlete,,,,Adriano,6,6,3,2,0,7,,,,,
+03/12/2023 09:25:17,S&C Coach,,,,,,,,,,,,Strength + Power -  2 Taper Weeks,"21st, 23rd, 28th & 30th November 2023 S&C Sessions","Taper 2 weeks - reduction by 10% to 15% in load, more focus on accessory work for December TT
+
+Thursdays (push strength) 
+  
+Glute bridge barbell press, heavy load (1set, 5 reps) –  
+Glute bridge barbell press, weighted, impulse absorption, timed (1set; 30sec/45sec/1min)
+Push up drop impulse absorption, timed (1set; 30sec/45sec/1min) 
+
+Front squats, heavy load (1set, 5 reps)  
+Barbell back squat drop, impulse absorption, timed (1set; 30sec/45sec/1min) 
+Reverse explosive box jumps (1set, 5 reps)   
+
+Hip thrust, heavy load (1set, 5 reps) 
+Glute bridge w/ med ball chest pass, impulse absorption, timed (1set; 30sec/45sec/1min)  
+Dumbbell wide stance isometric lunge, impulse absorption, timed (1set; 30sec/45sec/1min)  
+
+Core (2 sets) 
+Swiss plank single leg plank hold (30seconds) 
+
+Accessory work (1 set)
+Rainbow slams - 6 reps 
+Deadhang - 1min
+Reactive medball/dumbbell full front raise  
+Reactive dumbbell Drop-catch – 30seconds 
+Reactive bar Drop-catch (2 variations) - 30seconds 
+
+Tuesdays (pull power) 
+
+Pull ups, heavy load (1set, 3 reps) 
+Pull ups, weighted, half reps, impulse absorption, timed (1set; 5 reps with 3 second drop isometric hold) 
+Barbell infinite pull x10sec on, 5sec off, x15sec on, 5sec off, 20sec on 
+
+Deadlifts, heavy load (1set, 3 reps) 
+Dumbbell b stance, impulse absorption, timed (1set; 30sec/45sec/1min) 
+Broad jumps (3 sets, reducing max reps) 
+
+Snatches/cleans (2 sets, 3 reps) 
+
+Core (2 sets) 
+Swiss plank single leg plank hold (30seconds) 
+
+Accessory work (1 set)
+Rainbow slams - 6 reps 
+Deadhang - 1min
+Reactive medball/dumbbell full front raise  
+Reactive dumbbell Drop-catch – 30seconds 
+Reactive bar Drop-catch (2 variations) - 30seconds 
+",
+03/12/2023 10:04:03,Athlete,,,,Vince,3,4,3,2,2,3,,,,,
+04/12/2023 07:48:46,Athlete,,,,Jayden,2,4,3,2,0,6,,,,,
+04/12/2023 21:45:10,Athlete,,,,Nathan,3,6,3,3,0,5,,,,,
+09/12/2023 10:06:03,Athlete,,,,Bea,3,5,1,5,2,1,,,,,
+09/12/2023 10:07:15,Athlete,,,,Sam,6,6,5,2,0,3,,,,,
+09/12/2023 10:07:47,Athlete,,,,Hector,5,4,4,1,0,4,,,,,
+09/12/2023 10:09:00,Athlete,,,,Oscar,6,5,5,1,0,3,,,,,
+09/12/2023 10:09:29,Athlete,,,,Nathan,6,6,4,0,0,3,,,,,
+09/12/2023 10:09:59,Athlete,,,,Adriano,6,5,4,0,0,3,,,,,
+09/12/2023 10:10:46,Athlete,,,,Gabriel,6,6,6,2,2,7,,,,,
+09/12/2023 10:11:32,Athlete,,,,Giuseppe,5,5,5,1,2,3,,,,,
+09/12/2023 10:13:42,Athlete,,,,Kate,4,4,3,2,3,7,,,,,
+09/12/2023 10:14:07,Athlete,,,,Rosi,4,4,4,4,4,6,,,,,
+09/12/2023 11:22:35,Athlete,,,,Luca,6,6,6,2,0,3,Taper Week for December TTs,,,,
+09/12/2023 15:33:24,Athlete,,,,Michela,5,6,6,3,1,5,,,,,
+09/12/2023 16:12:34,Athlete,,,,Nirvana,2,5,4,5,0,4, Dec Time trial week,,,,
+09/12/2023 16:24:48,Athlete,,,,Jayden,5,5,5,4,0,2,,,,,
+16/12/2023 10:01:33,Athlete,,,,Oscar,5,5,5,2,3,7,,,,,
+16/12/2023 10:02:18,Athlete,,,,Hector,4,4,3,0,1,3,,,,,
+16/12/2023 10:02:27,Athlete,,,,Bea,0,1,1,5,0,6,I was sick,,,,
+16/12/2023 10:07:56,Athlete,,,,Rosi,3,4,4,3,3,6,,,,,
+16/12/2023 10:14:47,Athlete,,,,Michela,3,3,6,3,6,8,,,,,
+16/12/2023 10:43:19,Athlete,,,,Adriano,4,5,5,1,2,5,,,,,
+16/12/2023 10:58:47,Athlete,,,,Gabriel,6,6,5,3,4,8,,,,,
+16/12/2023 15:01:50,Athlete,,,,Nirvana,3,6,5,4,5,6,,,,,
+17/12/2023 16:14:28,Athlete,,,,Jayden,4,4,3,4,5,4,,,,,
+20/12/2023 15:26:13,Athlete,,,,Kate,5,5,4,3,2,7,,,,,
+23/12/2023 11:35:30,Athlete,,,,Oscar,6,6,5,0,1,4,,,,,
+24/12/2023 11:02:36,Athlete,,,,Gabriel,5,6,5,2,2,7,,,,,
+24/12/2023 11:59:58,Athlete,,,,Michela,6,5,5,2,5,7,,,,,
+24/12/2023 14:01:29,Athlete,,,,Bea,4,6,3,0,0,2,,,,,
+24/12/2023 14:03:33,Athlete,,,,Giuseppe,5,6,5,2,1,5,,,,,
+24/12/2023 14:05:01,Athlete,,,,Luca,6,6,6,2,1,3,Week before christmas Break,,,,
+24/12/2023 14:16:46,Athlete,,,,Kate,5,5,4,2,3,7,,,,,
+24/12/2023 15:08:57,Athlete,,,,Nirvana,6,6,5,2,6,8,,,,,
+24/12/2023 17:18:59,Athlete,,,,Adriano,6,6,4,0,0,3,,,,,
+24/12/2023 17:52:08,Athlete,,,,Jayden,4,4,3,2,4,5,,,,,
+06/01/2024 10:01:12,Athlete,,,,Oscar,4,4,4,2,3,7,,,,,
+06/01/2024 11:20:00,Athlete,,,,Luca,0,1,6,5,0,0,Had a chest and sinus infection ,,,,
+06/01/2024 11:20:06,Athlete,,,,Giuseppe,4,4,4,5,5,7,,,,,
+06/01/2024 11:20:20,Athlete,,,,Gabriel,4,6,5,3,4,8,,,,,
+06/01/2024 11:25:14,Athlete,,,,Nirvana,4,6,4,5,3,8,,,,,
+06/01/2024 12:07:35,Athlete,,,,Adriano,4,6,4,4,6,8,,,,,
+06/01/2024 12:10:04,Athlete,,,,Michela,1,2,6,6,6,8,,,,,
+06/01/2024 12:19:07,Athlete,,,,Bea,6,6,3,6,5,5,,,,,
+06/01/2024 14:11:42,Athlete,,,,Hector,4,4,3,3,4,5,,,,,
+06/01/2024 15:32:21,Athlete,,,,Nathan,4,6,2,3,4,7,,,,,
+06/01/2024 16:55:09,Athlete,,,,Sienna,4,3,6,4,6,10,,,,,
+06/01/2024 16:56:02,Athlete,,,,Anthony,5,5,3,4,5,9,,,,,
+06/01/2024 17:43:13,Athlete,,,,Scarlet,5,5,6,3,6,6,,,,,
+07/01/2024 09:22:11,S&C Coach,,,,,,,,,,,,S&C Session - 4th January 2024 ,Strength period ,"New Warm-Up Applied:
+
+1. Thera band sequence 
+2. Wrist and ankle mobility 
+3. Walkout sequence 
+4. Hip flexor lunge flow; front and lateral 
+5. Dynamic movement; push ups/superman, squat thrust squat jumps
+6. Isometrics
+
+Overall generic push strength applied for first session back of the year ",
+07/01/2024 12:06:33,Athlete,,,,Kate,5,5,4,2,3,9,,,,,
+07/01/2024 12:46:01,Athlete,,,,Sam,6,6,4,4,6,7,First week back was very draining and exhausting overall,,,,
+13/01/2024 10:05:19,Athlete,,,,Oscar,4,5,5,3,3,8,,,,,
+13/01/2024 13:07:13,Athlete,,,,Bea,4,5,3,4,4,6,,,,,
+13/01/2024 13:07:31,Athlete,,,,Luca,5,5,4,6,6,7,,,,,
+13/01/2024 13:08:26,Athlete,,,,Sienna,4,4,5,3,6,10,,,,,
+13/01/2024 13:10:44,Athlete,,,,Michela,1,1,6,4,6,8,,,,,
+13/01/2024 13:10:45,Athlete,,,,Emma,4,4,1,5,6,8,,,,,
+13/01/2024 13:11:55,Athlete,,,,Nathan,5,6,2,4,6,7,,,,,
+13/01/2024 13:12:06,Athlete,,,,Scarlet,4,5,4,3,5,9,,,,,
+13/01/2024 13:12:52,Athlete,,,,Gabriel,5,6,5,3,4,8,,,,,
+13/01/2024 13:41:06,Athlete,,,,Hector,4,4,4,2,4,5,,,,,
+13/01/2024 13:53:49,Athlete,,,,Giuseppe,5,5,5,3,2,7,,,,,
+13/01/2024 14:13:07,Athlete,,,,Nirvana,2,6,4,3,3,8,,,,,
+13/01/2024 14:34:03,Athlete,,,,Kate,4,5,4,2,3,9,,,,,
+13/01/2024 16:55:15,Athlete,,,,Adriano,4,6,4,3,2,7,,,,,
+14/01/2024 18:02:37,Athlete,,,,Rosi,4,4,5,4,4,7,,,,,
+20/01/2024 10:31:04,Athlete,,,,Bea,3,5,1,5,4,6,,,,,
+20/01/2024 10:31:31,Athlete,,,,Luca,5,3,4,5,6,6,Race week ,,,,
+20/01/2024 10:33:27,Athlete,,,,Gabriel,5,6,6,3,2,8,,,,,
+20/01/2024 10:33:35,Athlete,,,,Emma,5,4,6,2,1,3,,,,,
+20/01/2024 10:34:08,Athlete,,,,Sienna,4,4,5,4,5,10,,,,,
+20/01/2024 10:36:48,Athlete,,,,Michela,6,6,6,4,3,8,,,,,
+20/01/2024 17:59:15,Athlete,,,,Hector,2,2,3,5,5,7,,,,,
+20/01/2024 18:41:25,Athlete,,,,Adriano,5,3,5,2,0,4,,,,,
+20/01/2024 19:58:50,Athlete,,,,Kate,4,4,5,3,3,7,,,,,
+20/01/2024 21:01:17,Athlete,,,,Nirvana,4,4,4,2,3,7,,,,,
+21/01/2024 06:04:36,Athlete,,,,Rosi,5,5,5,4,5,8,,,,,
+21/01/2024 08:08:14,Athlete,,,,Sam,6,5,5,3,4,7,,,,,
+21/01/2024 09:30:47,Athlete,,,,Anthony,4,4,3,4,3,7,,,,,
+27/01/2024 10:00:45,Athlete,,,,Oscar,4,5,5,3,3,8,,,,,
+27/01/2024 12:08:49,Athlete,,,,Gabriel,5,6,6,3,3,9,,,,,
+27/01/2024 12:08:59,Athlete,,,,Michela,6,6,5,6,5,10,,,,,
+27/01/2024 13:36:49,Athlete,,,,Bea,3,5,3,4,1,5,San Marino week,,,,
+27/01/2024 13:38:22,Athlete,,,,Sienna,4,4,5,4,6,10,,,,,
+27/01/2024 13:40:21,Athlete,,,,Anthony,2,2,2,3,4,8,,,,,
+27/01/2024 13:42:15,Athlete,,,,Emma,4,2,5,2,5,8,,,,,
+27/01/2024 13:52:19,Athlete,,,,Kate,4,4,4,3,4,9,,,,,
+27/01/2024 13:54:55,Athlete,,,,Giuseppe,5,5,5,3,5,7,,,,,
+27/01/2024 14:11:44,Athlete,,,,Rosi,4,6,5,6,6,8,,,,,
+27/01/2024 14:59:01,Athlete,,,,Adriano,5,4,4,5,1,8,,,,,
+27/01/2024 15:10:26,Athlete,,,,Nirvana,1,3,6,3,0,6,"Week I was sick, so I only swam from Thursday. RPE is based on Thursday onwards.",,,,
+28/01/2024 10:47:19,Athlete,,,,Luca,2,3,3,5,4,6,Exams - Week 1,,,,
+28/01/2024 21:02:12,Athlete,,,,Nathan,4,6,3,5,2,7,,,,,
+31/01/2024 15:06:35,Athlete,,,,Sam,5,6,5,2,2,4,,,,,
+03/02/2024 09:44:45,Athlete,,,,Luca,4,3,5,5,6,7,Exam week 2,,,,
+03/02/2024 09:45:05,Athlete,,,,Gabriel,4,6,6,5,4,9,,,,,
+03/02/2024 09:45:22,Athlete,,,,Michela,5,3,6,6,6,10,,,,,
+03/02/2024 09:45:57,Athlete,,,,Bea,2,4,2,6,1,7,Took Friday off (rest),,,,
+03/02/2024 09:46:26,Athlete,,,,Giuseppe,5,5,4,4,3,8,,,,,
+03/02/2024 09:46:47,Athlete,,,,Vince,3,3,2,4,2,3,,,,,
+03/02/2024 09:47:43,Athlete,,,,Anthony,2,4,3,3,4,7,,,,,
+03/02/2024 09:58:10,Athlete,,,,Oscar,4,6,5,2,3,7,,,,,
+03/02/2024 09:58:33,Athlete,,,,Sienna,3,3,5,4,6,10,,,,,
+03/02/2024 10:07:45,Athlete,,,,Emma,4,4,2,5,5,8,,,,,
+03/02/2024 10:33:37,Athlete,,,,Nirvana,2,6,5,1,5,8,,,,,
+03/02/2024 11:55:26,Athlete,,,,Nathan,3,6,4,5,3,7,,,,,
+03/02/2024 12:29:44,Athlete,,,,Adriano,3,2,3,5,4,8,I ran 20 laps around the pool Friday morning ,,,,
+03/02/2024 13:24:18,Athlete,,,,Kate,4,4,4,4,5,10,,,,,
+03/02/2024 13:42:21,Athlete,,,,Hector,3,3,4,5,5,7,,,,,
+03/02/2024 13:51:49,Athlete,,,,Sam,6,6,6,2,1,7,,,,,
+04/02/2024 09:26:00,Athlete,,,,Rosi,5,5,5,6,6,9,,,,,
+10/02/2024 10:02:19,Athlete,,,,Hector,3,2,2,4,4,7,,,,,
+10/02/2024 10:02:43,Athlete,,,,Oscar,3,5,3,2,3,6,,,,,
+10/02/2024 10:03:08,Athlete,,,,Bea,0,4,2,4,6,8,,,,,
+10/02/2024 10:03:29,Athlete,,,,Anthony,5,5,5,3,4,7,,,,,
+10/02/2024 10:04:25,Athlete,,,,Sienna,3,4,5,4,6,10,,,,,
+10/02/2024 10:05:40,Athlete,,,,Gabriel,4,5,6,2,3,8,I was sick,,,,
+10/02/2024 10:07:25,Athlete,,,,Rosi,5,5,6,6,6,8,,,,,
+10/02/2024 10:18:40,Athlete,,,,Michela,5,6,6,4,5,8,,,,,
+10/02/2024 10:29:55,Athlete,,,,Sam,6,6,5,2,2,6,This week I got a bit sick but overall very good ,,,,
+10/02/2024 10:33:42,Athlete,,,,Nathan,3,6,4,6,5,7,,,,,
+10/02/2024 11:02:02,Athlete,,,,Giuseppe,5,5,5,4,2,7,,,,,
+10/02/2024 11:28:31,Athlete,,,,Adriano,5,2,4,4,1,7,,,,,
+10/02/2024 12:47:04,Athlete,,,,Luca,5,5,5,3,4,8,,,,,
+10/02/2024 13:14:50,Athlete,,,,Kate,5,4,5,3,4,9,,,,,
+11/02/2024 22:07:01,Athlete,,,,Emma,3,2,5,3,3,8,,,,,
+14/02/2024 19:23:36,Athlete,,,,Scarlet,5,4,5,2,5,9,,,,,
+17/02/2024 06:50:18,Athlete,,,,Bea,5,5,2,2,5,3,,,,,
+17/02/2024 06:54:37,Athlete,,,,Hector,3,3,4,2,2,5,,,,,
+17/02/2024 06:59:05,Athlete,,,,Sam,6,6,5,0,0,2,,,,,
+17/02/2024 07:03:41,Athlete,,,,Giuseppe,6,5,4,6,2,5,,,,,
+17/02/2024 07:07:38,Athlete,,,,Michela,6,6,6,3,2,5,,,,,
+17/02/2024 07:11:35,Athlete,,,,Gabriel,5,6,6,2,2,7,,,,,
+17/02/2024 07:11:55,Athlete,,,,Adriano,6,4,4,2,0,4,,,,,
+17/02/2024 12:39:09,Athlete,,,,Scarlet,3,5,3,4,0,5,,,,,
+17/02/2024 12:44:59,Athlete,,,,Sienna,4,5,5,4,5,9,,,,,
+17/02/2024 21:50:32,Athlete,,,,Nathan,3,6,2,1,0,4,,,,,
+17/02/2024 23:13:31,Athlete,,,,Nirvana,4,6,5,3,2,7,,,,,
+18/02/2024 10:06:32,Athlete,,,,Kate,4,4,4,3,3,7,,,,,
+18/02/2024 14:08:00,Athlete,,,,Luca,5,4,4,4,3,5,February Time Trials week,,,,
+20/02/2024 20:47:54,Athlete,,,,Anthony,4,4,3,3,4,6,,,,,
+24/02/2024 09:26:42,Athlete,,,,Sam,6,5,6,3,2,8,,,,,
+24/02/2024 09:27:46,Athlete,,,,Giuseppe,5,5,4,3,4,7,,,,,
+24/02/2024 09:28:56,Athlete,,,,Hector,4,3,5,4,4,8,,,,,
+24/02/2024 09:38:18,Athlete,,,,Anthony,4,4,4,3,3,9,,,,,
+24/02/2024 09:41:20,Athlete,,,,Bea,5,5,4,3,2,7,,,,,
+24/02/2024 09:42:09,Athlete,,,,Kate,5,5,4,3,3,9,,,,,
+24/02/2024 09:53:34,Athlete,,,,Emma,4,3,6,4,5,9,,,,,
+24/02/2024 09:54:16,Athlete,,,,Rosi,4,4,5,4,5,7,,,,,
+24/02/2024 09:54:19,Athlete,,,,Sienna,4,4,5,4,6,10,,,,,
+24/02/2024 09:55:06,Athlete,,,,Oscar,4,6,6,2,2,9,,,,,
+24/02/2024 09:55:49,Athlete,,,,Scarlet,3,3,4,5,6,9,,,,,
+24/02/2024 09:56:32,Athlete,,,,Michela,4,3,6,4,5,9,,,,,
+24/02/2024 10:54:34,Athlete,,,,Nathan,3,6,3,4,2,7,,,,,
+24/02/2024 10:59:58,Athlete,,,,Adriano,5,4,5,2,0,8,Ran 10 laps around the pool on Tuesday morning ,,,,
+24/02/2024 12:48:00,Athlete,,,,Gabriel,5,6,5,4,3,9,,,,,
+24/02/2024 15:06:34,Athlete,,,,Nirvana,3,6,5,4,2,7,,,,,
+24/02/2024 16:23:06,Athlete,,,,Luca,5,4,4,3,2,8,,,,,
+02/03/2024 10:02:16,Athlete,,,,Anthony,4,5,4,4,5,8,,,,,
+02/03/2024 10:03:15,Athlete,,,,Sienna,3,3,4,3,6,10,,,,,
+02/03/2024 10:03:16,Athlete,,,,Giuseppe,4,5,5,2,1,6,,,,,
+02/03/2024 10:03:21,Athlete,,,,Emma,4,3,5,4,3,8,,,,,
+02/03/2024 10:03:39,Athlete,,,,Kate,5,5,4,4,3,8,,,,,
+02/03/2024 10:04:59,Athlete,,,,Scarlet,4,5,5,4,6,9,,,,,
+02/03/2024 10:07:44,Athlete,,,,Gabriel,5,6,5,3,3,9,,,,,
+02/03/2024 10:09:37,Athlete,,,,Bea,4,5,3,4,4,6,,,,,
+02/03/2024 10:11:36,Athlete,,,,Oscar,4,5,5,4,3,9,"Friday afternoon was off, and  I missed Saturday morning.",,,,
+02/03/2024 10:18:59,Athlete,,,,Sam,6,6,6,2,1,6,,,,,
+02/03/2024 10:24:55,Athlete,,,,Michela,6,5,6,5,4,9,,,,,
+02/03/2024 10:34:17,Athlete,,,,Hector,3,3,5,5,5,8,,,,,
+02/03/2024 11:15:31,Athlete,,,,Adriano,4,5,5,2,1,7,,,,,
+02/03/2024 11:28:18,Athlete,,,,Nirvana,4,5,6,2,6,7,,,,,
+02/03/2024 13:04:35,Athlete,,,,Luca,5,5,5,4,3,8,,,,,
+02/03/2024 14:13:16,Athlete,,,,Rosi,5,5,5,4,4,7,,,,,
+02/03/2024 15:14:06,Athlete,,,,Nathan,2,6,2,5,4,6,,,,,
+09/03/2024 10:01:18,Athlete,,,,Oscar,3,5,4,5,5,9,I missed monday morning and afternoon. Friday morning is always off for me (for now).,,,,
+09/03/2024 12:29:38,Athlete,,,,Hector,3,3,3,5,5,8,,,,,
+09/03/2024 12:29:54,Athlete,,,,Anthony,4,4,3,5,5,8,,,,,
+09/03/2024 12:30:02,Athlete,,,,Emma,5,3,5,4,4,8,,,,,
+09/03/2024 12:30:20,Athlete,,,,Bea,5,5,2,2,0,5,Luxembourg ,,,,
+09/03/2024 12:30:32,Athlete,,,,Scarlet,4,4,5,5,5,10,,,,,
+09/03/2024 12:30:53,Athlete,,,,Gabriel,6,6,6,2,0,7,,,,,
+09/03/2024 12:31:23,Athlete,,,,Luca,6,6,4,6,4,10,,,,,
+09/03/2024 12:41:43,Athlete,,,,Sienna,3,3,6,4,6,10,,,,,
+09/03/2024 12:45:26,Athlete,,,,Kate,5,5,5,4,3,9,,,,,
+09/03/2024 12:49:13,Athlete,,,,Rosi,5,5,5,5,6,8,,,,,
+09/03/2024 13:46:03,Athlete,,,,Michela,6,6,6,3,3,7,,,,,
+09/03/2024 14:02:27,Athlete,,,,Giuseppe,5,5,4,4,5,8,,,,,
+09/03/2024 15:27:36,Athlete,,,,Nirvana,2,4,6,2,2,7,Week of Luxembourg ,,,,
+09/03/2024 15:32:16,Athlete,,,,Adriano,5,5,4,3,2,8,,,,,
+09/03/2024 16:03:49,Athlete,,,,Nathan,3,6,2,6,4,8,,,,,
+11/03/2024 07:59:57,Athlete,,,,Sam,6,6,6,1,2,4,,,,,

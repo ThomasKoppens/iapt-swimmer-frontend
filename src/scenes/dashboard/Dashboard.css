@@ -1,0 +1,125 @@
+
+.input-box {
+    width: 100%;
+   
+    font-size: 16px;
+    border: 1px solid #4cceac;
+    border-radius: 5px;
+    background-color: #1f1f1f;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.input-box::placeholder {
+    color: #a0a0a0;
+}
+
+
+.button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: black;
+    background-color: #4cceac;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.button:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+body, html {
+    font-family: "Poppins", sans-serif;
+}
+
+.dashboard-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.chart-container {
+    width: 100%;
+    height: 60vh;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.date-picker {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.side-bar {
+    width: 20%;
+    padding: 20px;
+    height: 100vh;
+    overflow-y: auto;
+    position: sticky;
+    top: 0;
+}
+
+.date-picker-container {
+    margin-bottom: 20px;
+}
+
+.date-picker-container .react-datepicker-wrapper {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.popper {
+    z-index: 10;
+}
+
+.athlete-select {
+    width: 100%;
+}
+
+.react-select__control {
+    background-color: #1f1f1f;
+    border: 1px solid #4cceac;
+    color: #ffffff;
+}
+
+.react-select__control--is-focused {
+    box-shadow: 0 0 0 1px #4cceac;
+}
+
+.react-select__menu {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.react-select__option {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.react-select__option--is-focused {
+    background-color: #333333;
+}
+
+.react-select__option--is-selected {
+    background-color: #4cceac;
+    color: black;
+}
+
+.react-select__multi-value {
+    background-color: #4cceac;
+    color: black;
+}
+
+.react-select__multi-value__label {
+    color: black;
+}

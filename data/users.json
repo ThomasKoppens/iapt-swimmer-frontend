@@ -1,0 +1,45 @@
+[
+    {
+        "email": "coach@gmail.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "password": "$2a$10$AVDLwM6xs7/pAAqmloSsLurq2kD4/un7bE/TeQeHwZvrYQlXZ4D9S",
+        "role": "coach",
+        "club": "AquaHub"
+    },
+    {
+        "email": "physio@gmail.com",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "password": "$2a$10$AVDLwM6xs7/pAAqmloSsLurq2kD4/un7bE/TeQeHwZvrYQlXZ4D9S",
+        "role": "physio",
+        "club": "AquaHub"
+    },
+    {
+        "email": "oscar@gmail.com",
+        "firstName": "Oscar",
+        "lastName": "Schmidt",
+        "password": "$2a$10$AVDLwM6xs7/pAAqmloSsLurq2kD4/un7bE/TeQeHwZvrYQlXZ4D9S",
+        "role": "swimmer",
+        "club": "AquaHub",
+        "id": 1
+    },
+    {
+        "email": "nathan@gmail.com",
+        "firstName": "Nathan",
+        "lastName": "Onwuzuluigbo",
+        "password": "$2a$10$AVDLwM6xs7/pAAqmloSsLurq2kD4/un7bE/TeQeHwZvrYQlXZ4D9S",
+        "role": "swimmer",
+        "club": "AquaHub",
+        "id": 2
+    },
+    {
+        "email": "scarlet@gmail.com",
+        "firstName": "Luca",
+        "lastName": "Vella",
+        "password": "$2a$10$AVDLwM6xs7/pAAqmloSsLurq2kD4/un7bE/TeQeHwZvrYQlXZ4D9S",
+        "role": "swimmer",
+        "club": "AquaHub",
+        "id": 3
+    }
+]
